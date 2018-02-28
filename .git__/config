@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = ytyaru0
+	email = ytyaru0@outlook.jp
+[remote "origin"]
+	url = https://ytyaru0:takasa02080@github.com/ytyaru0/GitHub.Uploader.Pi3.Https.201802270700.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

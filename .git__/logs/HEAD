@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 639e047b912175d99bec4d255b9eb40e14a4078d ytyaru0 <ytyaru0@outlook.jp> 1519698463 +0900	commit (initial): Upload.py引数なしでの起動エラーを解消した
+639e047b912175d99bec4d255b9eb40e14a4078d a2bc0dd60d6a54d84e339f1caebd928d39b9d141 ytyaru0 <ytyaru0@outlook.jp> 1519725744 +0900	commit: cui.sh.Client作った。Upload時に新規生成はできたが削除時にエラー。
